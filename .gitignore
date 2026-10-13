@@ -1,0 +1,5 @@
+audio/
+results/
+keep/*.wav
+*.old
+cron.log

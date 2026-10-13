@@ -1,0 +1,18 @@
+# timestamp, calls, best_prob, species_guess, low_khz, high_khz
+2026-10-09 19:50:08, 3, 0.58, Pipistrellus pipistrellus, 43.5, 50.2
+2026-10-10 23:30:59, 8, 0.72, Pipistrellus nathusii, 38.4, 47.0
+2026-10-11 22:41:43, 3, 0.62, Pipistrellus pipistrellus, 47.8, 55.1
+2026-10-12 01:50:27, 18, 0.77, Nyctalus leisleri, 22.9, 28.1
+2026-10-12 19:50:07, 18, 0.65, Eptesicus serotinus, 22.0, 32.3
+2026-10-12 20:20:24, 2, 0.63, Nyctalus leisleri, 22.9, 29.7
+2026-10-12 20:20:43, 4, 0.66, Nyctalus leisleri, 22.9, 29.3
+2026-10-12 20:41:24, 3, 0.60, Nyctalus leisleri, 31.5, 37.5
+2026-10-12 21:00:07, 14, 0.63, Nyctalus leisleri, 22.0, 30.3
+2026-10-12 21:00:33, 2, 0.55, Nyctalus leisleri, 26.3, 29.8
+2026-10-12 21:00:43, 2, 0.66, Nyctalus leisleri, 25.5, 29.4
+2026-10-12 21:01:42, 5, 0.70, Pipistrellus nathusii, 32.3, 43.6
+2026-10-12 21:30:16, 6, 0.64, Pipistrellus pipistrellus, 40.9, 52.3
+2026-10-12 22:31:23, 15, 0.73, Nyctalus leisleri, 23.8, 33.4
+2026-10-12 22:31:50, 19, 0.70, Nyctalus leisleri, 23.8, 32.9
+2026-10-12 23:20:44, 2, 0.61, Nyctalus leisleri, 22.0, 27.0
+2026-10-13 05:50:16, 2, 0.66, Nyctalus leisleri, 26.3, 34.5
