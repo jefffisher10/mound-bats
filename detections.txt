@@ -342,3 +342,11 @@
 2026-10-17 02:20:28, Pipistrellus nathusii, 0.64, 0.48, 37.5, 42.4
 2026-10-17 02:20:28, Pipistrellus nathusii, 0.52, 0.46, 37.5, 42.5
 2026-10-17 02:20:31, Nyctalus leisleri, 0.54, 0.30, 34.1, 36.7
+2026-10-18 19:51:59, Eptesicus serotinus, 0.65, 0.22, 34.1, 41.5
+2026-10-18 19:51:59, Nyctalus leisleri, 0.60, 0.29, 34.1, 37.9
+2026-10-18 22:11:16, Pipistrellus nathusii, 0.52, 0.34, 42.7, 50.7
+2026-10-18 22:11:17, Pipistrellus nathusii, 0.57, 0.44, 40.1, 46.6
+2026-10-18 22:11:18, Pipistrellus nathusii, 0.61, 0.57, 40.9, 48.3
+2026-10-18 22:11:18, Pipistrellus nathusii, 0.62, 0.54, 40.1, 49.3
+2026-10-18 22:11:18, Pipistrellus nathusii, 0.57, 0.53, 40.9, 47.3
+2026-10-18 22:11:18, Pipistrellus nathusii, 0.62, 0.54, 40.9, 48.9
