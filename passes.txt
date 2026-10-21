@@ -1,4 +1,16 @@
 # timestamp, calls, best_prob, species_guess, low_khz, high_khz
+2026-10-06 19:40:38, 7, 0.70, Nyctalus leisleri, 24.6, 29.2
+2026-10-06 19:40:43, 2, 0.61, Nyctalus leisleri, 24.6, 28.7
+2026-10-07 19:40:04, 9, 0.70, Nyctalus leisleri, 25.5, 34.4
+2026-10-08 01:40:02, 16, 0.77, Nyctalus leisleri, 23.8, 29.6
+2026-10-08 02:20:02, 2, 0.43, Nyctalus leisleri, 25.5, 30.3
+2026-10-08 02:50:25, 2, 0.56, Nyctalus leisleri, 25.5, 29.3
+2026-10-08 03:00:54, 1, 0.39, Nyctalus leisleri, 23.8, 29.0
+2026-10-08 03:20:42, 4, 0.69, Nyctalus leisleri, 25.5, 30.4
+2026-10-08 03:20:43, 11, 0.75, Nyctalus leisleri, 24.6, 30.4
+2026-10-08 03:30:08, 29, 0.79, Nyctalus leisleri, 23.8, 28.9
+2026-10-08 04:21:57, 14, 0.69, Nyctalus leisleri, 25.5, 31.2
+2026-10-08 21:01:35, 17, 0.68, Nyctalus leisleri, 25.5, 39.2
 2026-10-09 19:50:08, 3, 0.58, Pipistrellus pipistrellus, 43.5, 50.2
 2026-10-10 23:30:59, 8, 0.72, Pipistrellus nathusii, 38.4, 47.0
 2026-10-11 22:41:43, 3, 0.62, Pipistrellus pipistrellus, 47.8, 55.1
@@ -45,3 +57,5 @@
 2026-10-19 20:41:11, 19, 0.78, Nyctalus leisleri, 21.2, 30.6
 2026-10-19 20:41:22, 5, 0.66, Nyctalus leisleri, 21.2, 26.6
 2026-10-20 00:31:08, 4, 0.63, Nyctalus leisleri, 31.5, 41.7
+2026-10-21 02:10:58, 11, 0.69, Nyctalus leisleri, 25.5, 29.7
+2026-10-21 02:11:03, 24, 0.70, Nyctalus leisleri, 24.6, 29.7
