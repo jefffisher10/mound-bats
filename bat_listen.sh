@@ -116,3 +116,4 @@ EOF
 find "$KEEP" -name '*.wav' -mtime +$KEEP_DAYS -delete
 
 chown -R $USER_NAME:$USER_NAME "$BASE"
+sudo -u ramblinray python3 /home/ramblinray/bats/publish_bats.py >> /home/ramblinray/bats/cron.log 2>&1
