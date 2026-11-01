@@ -78,3 +78,5 @@
 2026-10-29 19:31:02, 25, 0.70, Nyctalus leisleri, 23.8, 39.4
 2026-10-29 22:31:52, 21, 0.72, Nyctalus leisleri, 21.2, 31.2
 2026-10-29 23:21:21, 2, 0.58, Pipistrellus nathusii, 34.1, 38.9
+2026-10-31 19:01:42, 3, 0.53, Pipistrellus nathusii, 34.9, 45.4
+2026-11-01 01:20:32, 2, 0.57, Nyctalus leisleri, 22.9, 28.0
